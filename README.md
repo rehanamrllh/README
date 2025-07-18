@@ -24,9 +24,6 @@ Hi there, I'm Rehan! 👋<br><br>Welcome to my GitHub profile! I'm @rehanamrllh,
 
 [![](https://visitcount.itsvg.in/api?id=rehanamrllh&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
-
----
 ![Snake animation](https://github.com/ifalfahri/ifalfahri/blob/output/github-contribution-grid-snake.svg)
 
 ## 💰 You can help me by Donating
